@@ -1,0 +1,28 @@
+[
+    {
+        "id" : 1,
+        "pagina" : 1,
+        "parte" : 1,
+        "nomPlant" : "Gomelo",
+        "precio" : 29990,
+        "vendedor" : "Patricio Perez",
+        "cantidad" : 4,
+        "img" : "https://joxcastro.github.io/listaPlantasApi/img/prueba.png",
+        "desc" : "descripcion de la planta",
+        "categoria" : "Plantas de interior",
+        "rengoPrecio" : "$10.000 - $30.000"
+    },
+    {
+        "id" : 1,
+        "pagina" : 1,
+        "parte" : 2,
+        "nomPlant" : "Helecho",
+        "precio" : 19990,
+        "vendedor" : "Juan Pablo",
+        "cantidad" : 2,
+        "img" : "https://joxcastro.github.io/listaPlantasApi/img/prueba.png",
+        "desc" : "se deven mover las palmeras",
+        "categoria" : "Plantas de interior",
+        "rengoPrecio" : "$10.000 - $30.000"
+    }
+]
