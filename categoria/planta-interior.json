@@ -59,7 +59,7 @@
         "precio" : 29990,
         "vendedor" : "Patricio Perez",
         "cantidad" : 4,
-        "img" : "https://joxcastro.github.io/listaPlantasApi/img/ficus-benjamina.jpg",
+        "img" : "https://joxcastro.github.io/listaPlantasApi/img/productos/ficus-benjamina.jpg",
         "desc" : "descripcion de la planta",
         "categoria" : "Plantas de interior",
         "rengoPrecio" : "$10.000 - $30.000"
