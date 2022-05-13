@@ -28,7 +28,7 @@
     {
         "id" : 3,
         "pagina" : 1,
-        "parte" : 1,
+        "parte" : 3,
         "nomPlant" : "Cactus",
         "precio" : 29990,
         "vendedor" : "Patricio Perez",
@@ -41,22 +41,113 @@
     {
         "id" : 4,
         "pagina" : 1,
-        "parte" : 1,
-        "nomPlant" : "Gomelo",
-        "precio" : 29990,
+        "parte" : 4,
+        "nomPlant" : "Ficus Lyrata",
+        "precio" : 30990,
         "vendedor" : "Patricio Perez",
         "cantidad" : 4,
         "img" : "https://joxcastro.github.io/listaPlantasApi/img/productos/ficus-lyrata.jpg",
         "desc" : "descripcion de la planta",
         "categoria" : "Plantas de interior",
-        "rengoPrecio" : "$10.000 - $30.000"
+        "rengoPrecio" : "31.000 - $50.000"
     },
     {
         "id" : 5,
         "pagina" : 1,
-        "parte" : 1,
-        "nomPlant" : "Gomelo",
+        "parte" : 5,
+        "nomPlant" : "Ficus Benjamina",
         "precio" : 29990,
+        "vendedor" : "Patricio Perez",
+        "cantidad" : 4,
+        "img" : "https://joxcastro.github.io/listaPlantasApi/img/productos/ficus-benjamina.jpg",
+        "desc" : "descripcion de la planta",
+        "categoria" : "Plantas de interior",
+        "rengoPrecio" : "$10.000 - $30.000"
+    },
+    {
+        "id" : 6,
+        "pagina" : 1,
+        "parte" : 6,
+        "nomPlant" : "Nandina",
+        "precio" : 9990,
+        "vendedor" : "Patricio Perez",
+        "cantidad" : 4,
+        "img" : "https://joxcastro.github.io/listaPlantasApi/img/productos/nandinajpg.jpg",
+        "desc" : "descripcion de la planta",
+        "categoria" : "Plantas de interior",
+        "rengoPrecio" : "$10.000 - $30.000"
+    },
+    {
+        "id" : 7,
+        "pagina" : 1,
+        "parte" : 7,
+        "nomPlant" : "Laurel de Flor",
+        "precio" : 39990,
+        "vendedor" : "Patricio Perez",
+        "cantidad" : 4,
+        "img" : "https://joxcastro.github.io/listaPlantasApi/img/productos/ficus-benjamina.jpg",
+        "desc" : "descripcion de la planta",
+        "categoria" : "Plantas de interior",
+        "rengoPrecio" : "31.000 - $50.000"
+    },
+    {
+        "id" : 8,
+        "pagina" : 1,
+        "parte" : 8,
+        "nomPlant" : "Suculenta",
+        "precio" : 9990,
+        "vendedor" : "Patricio Perez",
+        "cantidad" : 4,
+        "img" : "https://joxcastro.github.io/listaPlantasApi/img/productos/ficus-benjamina.jpg",
+        "desc" : "descripcion de la planta",
+        "categoria" : "Plantas de interior",
+        "rengoPrecio" : "$10.000 - $30.000"
+    }
+    {
+        "id" : 9,
+        "pagina" : 1,
+        "parte" : 9,
+        "nomPlant" : "Olivo",
+        "precio" : 30990,
+        "vendedor" : "Patricio Perez",
+        "cantidad" : 4,
+        "img" : "https://joxcastro.github.io/listaPlantasApi/img/productos/ficus-benjamina.jpg",
+        "desc" : "descripcion de la planta",
+        "categoria" : "Plantas de interior",
+        "rengoPrecio" : "$10.000 - $30.000"
+    }
+    {
+        "id" : 10,
+        "pagina" : 1,
+        "parte" : 10,
+        "nomPlant" : "Manto de Eva",
+        "precio" : 24990,
+        "vendedor" : "Patricio Perez",
+        "cantidad" : 4,
+        "img" : "https://joxcastro.github.io/listaPlantasApi/img/productos/ficus-benjamina.jpg",
+        "desc" : "descripcion de la planta",
+        "categoria" : "Plantas de interior",
+        "rengoPrecio" : "$10.000 - $30.000"
+    }
+    {
+        "id" : 11,
+        "pagina" : 1,
+        "parte" : 11,
+        "nomPlant" : "Bugambilia",
+        "precio" : 24990,
+        "vendedor" : "Patricio Perez",
+        "cantidad" : 4,
+        "img" : "https://joxcastro.github.io/listaPlantasApi/img/productos/ficus-benjamina.jpg",
+        "desc" : "descripcion de la planta",
+        "categoria" : "Plantas de interior",
+        "rengoPrecio" : "$10.000 - $30.000"
+    }
+    {
+        "id" : 12,
+        "pagina" : 1,
+        "parte" : 12,
+        "nomPlant" : "Ficus Ali",
+        "precio" : 25990,
         "vendedor" : "Patricio Perez",
         "cantidad" : 4,
         "img" : "https://joxcastro.github.io/listaPlantasApi/img/productos/ficus-benjamina.jpg",
