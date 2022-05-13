@@ -137,7 +137,7 @@
         "precio" : 24990,
         "vendedor" : "Patricio Perez",
         "cantidad" : 4,
-        "img" : "https://joxcastro.github.io/listaPlantasApi/img/productos/Bugambilia3.jpg",
+        "img" : "https://joxcastro.github.io/listaPlantasApi/img/productos/Bugambilia3.png",
         "desc" : "descripcion de la planta",
         "categoria" : "Plantas de interior",
         "rengoPrecio" : "$10.000 - $30.000"
