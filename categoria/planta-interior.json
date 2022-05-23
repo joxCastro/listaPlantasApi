@@ -8,7 +8,7 @@
         "vendedor" : "Patricio Perez",
         "cantidad" : 4,
         "img" : "https://joxcastro.github.io/listaPlantasApi/img/productos/gomero-frente.jpg",
-        "desc" : "descripcion de la planta",
+        "desc" : "El gomero, o árbol de caucho o ficus elástica, debe ser la especie que lleva más tiempo reinando en el mundo de las plantas de interior. Un clásico en las casas de abuelos (y bisabuelos), su resistencia y fidelidad han logrado volver a posicionarla como una planta favorita al momento de incorporar verde a tu casa. Se caracteriza principalmente por tener hojas grandes, gruesas y brillantes que pueden tener 3 tonalidades: verdes, variegadas o oscuras.",
         "categoria" : "Plantas de interior",
         "rengoPrecio" : "$10.000 - $30.000"
     },
