@@ -21,7 +21,7 @@
         "vendedor" : "Juan Pablo",
         "cantidad" : 2,
         "img" : "https://joxcastro.github.io/listaPlantasApi/img/productos/helecho.jpg",
-        "desc" : "se deven mover las palmeras",
+        "desc" : "Una planta muy bonita a la hora de decorar el interior de un apartamento, son los helechos. Además, los helechos son plantas que le dan una gran frescura al ambiente, sin embargo es una familia de plantas que no resulta fácil de mantener, debido a que poseen algunas características físicas que los hacen muy distintos de las plantas con semillas, pues los helechos no tienen. En este artículo de EcologíaVerde, os damos algunos consejos sobre el cultivo y cuidados de los helechos.",
         "categoria" : "Plantas de interior",
         "rengoPrecio" : "$10.000 - $30.000"
     },
@@ -34,7 +34,7 @@
         "vendedor" : "Patricio Perez",
         "cantidad" : 4,
         "img" : "https://joxcastro.github.io/listaPlantasApi/img/productos/cactus12.png",
-        "desc" : "descripcion de la planta",
+        "desc" : "Estarás de acuerdo con nosotros en que si hay una vegetación que actualmente está de moda, ésta son los cactus. Pues, ¿quién no tiene una de estas plantas en casa, en el jardín o en la oficina? <br> Y, aunque no sea así, estamos totalmente seguros de que las tiendas especializadas o los centros de jardinería de tu ciudad, tendrán alguno en la puerta o en el escaparate.",
         "categoria" : "Plantas de interior",
         "rengoPrecio" : "$10.000 - $30.000"
     },
@@ -47,7 +47,7 @@
         "vendedor" : "Patricio Perez",
         "cantidad" : 4,
         "img" : "https://joxcastro.github.io/listaPlantasApi/img/productos/ficus-lyrata.jpg",
-        "desc" : "descripcion de la planta",
+        "desc" : "El ficus lyrata, también conocido como Ficus pandurata, es una planta tropical procedente de África perfecta para interiores. Su nombre es un homenaje a la lira, ya que sus hojas tienen la forma de ese instrumento de cuerda. Esta planta de interior es conocida también como higuera de hojas de violín, árbol lira o ficus lirado. Descubre cómo cuidar el ficus lyrata y dónde colocarla en casa.",
         "categoria" : "Plantas de interior",
         "rengoPrecio" : "31.000 - $50.000"
     },
@@ -60,7 +60,7 @@
         "vendedor" : "Patricio Perez",
         "cantidad" : 4,
         "img" : "https://joxcastro.github.io/listaPlantasApi/img/productos/ficus-benjamina.jpg",
-        "desc" : "descripcion de la planta",
+        "desc" : "El Ficus benjamina, es la planta mas cultivada en los interiores de nuestras casas, son plantas fáciles de cuidar y crecen rápidamente y puede alcanzar los 30 m de altura en condiciones naturales. Posee ramas péndulas y hojas gruesas de 6-13 cm de largo. Cuando fructifica, raramente en interior, produce  pequeñas frutas, similares a los higos, que son el alimento favorito de varias aves en Malasia y Tailandia, donde es nativo.",
         "categoria" : "Plantas de interior",
         "rengoPrecio" : "$10.000 - $30.000"
     },
@@ -73,7 +73,7 @@
         "vendedor" : "Patricio Perez",
         "cantidad" : 4,
         "img" : "https://joxcastro.github.io/listaPlantasApi/img/productos/nandinajpg.jpg",
-        "desc" : "descripcion de la planta",
+        "desc" : " arbusto siempreverde de hasta 3 m de alto, poco ramificado, erecto. Hojas pecioladas, alternas, bi o tripinnadas, con  los últimos segmentos  elípticos a ovados o lanceolados, de 2-10 cm de largo y 0,5-2 cm de ancho, de margen entero y ápice agudo, verde oscuros en la haz y más pálidos en el envés, frecuentemente teñidos de rojo. Inflorescencia en panículas axilares o terminales. Flores hermafroditas, actinomorfas, trímeras. Perianto de numerosas piezas imbricadas, dispuestas en verticilos trímeros, las externas sepaloides, de color blanco rosado; androceo de seis estambres; ovario supero. Fruto, una baya globosa, de 5-10 mm de diámetro, de color rojo brillante a violáceo oscuro al madurar, con 1-4 semillas discoidales.",
         "categoria" : "Plantas de interior",
         "rengoPrecio" : "$10.000 - $30.000"
     },
@@ -86,7 +86,7 @@
         "vendedor" : "Patricio Perez",
         "cantidad" : 4,
         "img" : "https://joxcastro.github.io/listaPlantasApi/img/productos/laurel de flor.jpg",
-        "desc" : "descripcion de la planta",
+        "desc" : "Nerium oleander Es un arbusto ornamental de hoja perenne muy común que crece hasta aproximadamente 6 m de altura, contiene una savia clara y pegajosa. Las hojas son largas, estrechas, lanceoladas, opuestas o se encuentran en grupos de 3 en el tallo, tienen una nervadura central prominente y miden hasta 25 cm. Las flores se forman en pequeños racimos en los extremos de las ramas, son tubulares con cinco lóbulos y generalmente son de color rosa, rojo o blanco",
         "categoria" : "Plantas de interior",
         "rengoPrecio" : "31.000 - $50.000"
     },
@@ -99,7 +99,7 @@
         "vendedor" : "Patricio Perez",
         "cantidad" : 4,
         "img" : "https://joxcastro.github.io/listaPlantasApi/img/productos/suculenta-blanca.jpg",
-        "desc" : "descripcion de la planta",
+        "desc" : "Sencillas y variadas, muy variadas. Quizás por esas muchas caras que tienen, las plantas suculentas se han convertido en unas habituales tanto para los amantes de la jardinería como para quienes tienen poca mano con ella. El hecho de que ocupen poco espacio y que, además, pueden crecer en casi en cualquier sitio (ya sea en interior o en exterior) convierten a las suculentas en una apuesta genial para tener un pedacito de Naturaleza en casi cualquier espacio.",
         "categoria" : "Plantas de interior",
         "rengoPrecio" : "$10.000 - $30.000"
     },
@@ -112,7 +112,7 @@
         "vendedor" : "Patricio Perez",
         "cantidad" : 4,
         "img" : "https://joxcastro.github.io/listaPlantasApi/img/productos/olivo.jpg",
-        "desc" : "descripcion de la planta",
+        "desc" : "Olea europaea, llamado comúnmente olivo, es un árbol pequeño perennifolio, longevo, que puede alcanzar hasta 15 m de altura, con copa ancha y tronco grueso, de aspecto retorcido. Su corteza es finamente fisurada, de color gris o plateado. Tiene las hojas opuestas, de 2 a 8 cm de largo, lanceoladas con el ápice ligeramente puntiagudo, enteras, coriáceas, glabras y verdes grises oscuras por el haz, más pálidas y densamente escamosas por el envés, más o menos sésiles o con un peciolo muy corto.",
         "categoria" : "Plantas de interior",
         "rengoPrecio" : "$10.000 - $30.000"
     },
@@ -125,7 +125,7 @@
         "vendedor" : "Patricio Perez",
         "cantidad" : 4,
         "img" : "https://joxcastro.github.io/listaPlantasApi/img/productos/manto de eva.jpg",
-        "desc" : "descripcion de la planta",
+        "desc" : "Alocasia macrorrhiza, comúnmente denominada Orejas de Elefante, Marquesa o Manto de Eva es una planta perenne tropical. No está muy claro de donde es oriunda, pero se cree que proviene de India o Sri-Lanka, aunque también existen teorías de que es oriunda de Malasia, Filipinas e Indonesia. Pero lo que sí sabemos, es que actualmente se ha propagado por todo el mundo. El Manto de Eva se caracteriza por sus inmensas hojas verdes, con nervios prominentes, que puede llegar a crecer de 2 a 5 metros de altura, dependiendo del tamaño del macetero. Las hojas apuntan hacia arriba con tallos rígidos y flores poco atractivas.",
         "categoria" : "Plantas de interior",
         "rengoPrecio" : "$10.000 - $30.000"
     },
@@ -138,7 +138,7 @@
         "vendedor" : "Patricio Perez",
         "cantidad" : 4,
         "img" : "https://joxcastro.github.io/listaPlantasApi/img/productos/Bugambilia3.png",
-        "desc" : "descripcion de la planta",
+        "desc" : "Si estás buscando una planta trepadora alternativa a los tradicionales rosales o a la hiedra pero con mucho color, la bugambilia es el ejemplar que estás buscando. Este precioso arbusto de origen brasileño ofrece preciosas flores rosadas, blancas, amarillas, salmón, rojas o moradas en ramas espinosas que pueden alcanzar hasta los 8 metros de altura. Se trata de un arbusto espectacular, especialmente durante los meses cálidos, en los que muestra su llamativa floración.",
         "categoria" : "Plantas de interior",
         "rengoPrecio" : "$10.000 - $30.000"
     },
@@ -151,7 +151,7 @@
         "vendedor" : "Patricio Perez",
         "cantidad" : 4,
         "img" : "https://joxcastro.github.io/listaPlantasApi/img/productos/ficus Ali.jpg",
-        "desc" : "descripcion de la planta",
+        "desc" : "El Ficus ‘Alii’ es el típico árbol que, en apariencia, no parece pertenecer al género al que pertenece (en este caso Ficus) al compararlo con otros de su especie. Pero es esa diferencia la que hace que sea tan bonito y especial. ¿De qué diferencia estamos hablando? De sus hojas, por supuesto. Y es que la gran mayoría de sus primos, como el Ficus carica o el Ficus elastica, tienen un follaje redondeado, más o menos ancho; en cambio nuestro protagonista lo tiene largo y delgado.",
         "categoria" : "Plantas de interior",
         "rengoPrecio" : "$10.000 - $30.000"
     }
